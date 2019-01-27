@@ -1,0 +1,8 @@
+#canvas{
+	background: white
+}
+html,body{
+	background: #eee;
+	margin:0;
+	overflow: hidden;
+}
